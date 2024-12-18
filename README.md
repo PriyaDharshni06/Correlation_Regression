@@ -1,4 +1,8 @@
+# NAME: PRIYA DHARSHNI.S
+# REG NO:24900865
+# EXP-3
 # Correlation and regression for data analysis
+26/10/2024
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -24,6 +28,8 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
-
 # Output 
+![Screenshot 2024-12-18 125151 - Copy](https://github.com/user-attachments/assets/59035544-2459-4372-b6ad-6ef026556627)
+
+# Result :
+The Correlation and Regression for data analysis of objects from feeder using probability distributed are calculated.
